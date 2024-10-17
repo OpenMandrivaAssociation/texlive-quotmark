@@ -3,7 +3,7 @@ Version:	15878
 Release:	2
 Summary:	Consistent quote marks
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/quotmark
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/quotmark
 License:	LPPL
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/quotmark.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/quotmark.doc.r%{version}.tar.xz
